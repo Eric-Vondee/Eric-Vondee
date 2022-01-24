@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Eric-Vondee
+- 👋 Hi, 
+- My name is Eric-Vondee, and i am Software Developer(Backend)
 - 👀 I’m interested in WEB3
 - 🌱 I’m currently learning and reading about solidity, blockchain and docker
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me @knight_deve on twitter
 
 <!---
