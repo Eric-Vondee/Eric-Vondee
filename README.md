@@ -11,13 +11,16 @@
 - Javascript
 - Typescript
 - Nodejs -Express & Nest JS
+- MongoDB
 
 GITHUB STATISTICS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Vondee&layout=compact)]
 
 - 📫 Reach me on Twitter - [@knight_deve](https://twitter.com/knight_deve)
+- Linkedin -[Eric Vondee](https://linkedin.com/in/eric-jr-vondee)
 - Gmail - ericvondee5@protonmail.com
+- 
 
 <!---
 Eric-Vondee/Eric-Vondee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
