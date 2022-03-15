@@ -20,7 +20,6 @@ GITHUB STATISTICS
 - 📫 Reach me on Twitter - [@knight_deve](https://twitter.com/knight_deve)
 - Linkedin -[Eric Vondee](https://linkedin.com/in/eric-jr-vondee)
 - Gmail - ericvondee5@protonmail.com
-- 
 
 <!---
 Eric-Vondee/Eric-Vondee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
