@@ -6,12 +6,12 @@
 - currently learning Solidity and building Dapps.
 - I’m looking to collaborate on blockchain projects and Backend roles.
 
-**PROGRAMMING LANGUAGES I WRITE**
-- solidity
-- Javascript
-- Typescript
-- Nodejs -Express & Nest JS
+**PROGRAMMING LANGUAGES & TOOLS**
+- Solidity
+- Javascript & Typescript
+- Nodejs(Express & Nest JS)
 - MongoDB
+- Docker
 
 GITHUB STATISTICS
 
