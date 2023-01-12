@@ -2,8 +2,6 @@
 
 ### My name is Eric-Vondee, and i am a Smart Contract Developer and a Backend Engineer.
 
-
-- currently learning Solidity and building Dapps.
 - I’m looking to collaborate on blockchain projects and Backend roles.
 
 **PROGRAMMING LANGUAGES & TOOLS**
