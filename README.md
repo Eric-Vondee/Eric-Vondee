@@ -1,19 +1,10 @@
-###  Hi 👋
+###  Hello 👋
 
-### My name is Eric-Vondee, and i am a Smart Contract Developer and a Backend Engineer.
+### My name is Eric, I am a Backend Engineer and Smart Contract Developer.
 
-- I’m looking to collaborate on blockchain projects and Backend roles.
-
-**PROGRAMMING LANGUAGES & TOOLS**
-- Solidity
-- Javascript & Typescript
-- Nodejs(Express & Nest JS)
-- MongoDB
-- Docker
-
-GITHUB STATISTICS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Vondee&layout=compact)]
+- ⚡ Tech stack: Javascript, Typescript, Node.js, Solidity and Golang
+- 🔭 I’m looking to collaborate on all sort of backend and blockchain projects
+- 🌱 I’m currently learning quite a number of interesting things(Database and Blockchain Protocol Engineering)
 
 - 📫 Reach me on Twitter - [@knight_deve](https://twitter.com/knight_deve)
 - Linkedin -[Eric Vondee](https://linkedin.com/in/eric-jr-vondee)
