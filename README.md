@@ -1,16 +1,30 @@
-###  Hello 👋
+# Hey, I'm Eric 👋⚡
 
-### My name is Eric, I am a Backend Engineer and Smart Contract Developer.
+**Backend Engineer** crafting distributed systems, APIs, and blockchain infrastructure.
 
-- ⚡ Tech stack: Javascript, Typescript, Node.js, Solidity and Golang
-- 🔭 I’m looking to collaborate on all sort of backend and blockchain projects
-- 🌱 I’m currently learning quite a number of interesting things(Database and Blockchain Protocol Engineering)
+🔭 Currently deep in the trenches exploring **databases, distributed systems, consensus & replication**
 
-- 📫 Reach me on Twitter - [@knight_deve](https://twitter.com/knight_deve)
-- Linkedin -[Eric Vondee](https://linkedin.com/in/eric-jr-vondee)
-- Gmail - ericvondee5@protonmail.com
+🛠️ I build with `Javascript` + `TypeScript` + `Go` on the backend, `Solidity` when things need to live on-chain
 
-<!---
-Eric-Vondee/Eric-Vondee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 What I'm Building
+
+- 🔗 **[Ply](https://useply.io)** — blockchain infrastructure platform <!-- one line: what problem it solves, who it's for -->
+- 🤖 **[StormBot](https://twitter.com/stormbotx)** — multichain Telegram trading bot ⚡
+
+---
+
+### 🧰 Stack
+
+`Typescript` . `TypeScript` · `Node.js` · `Go` · `Solidity`
+
+---
+
+### 🔗 Reach Me
+
+🐦 Twitter — [@knight_deve](https://twitter.com/knight_deve)<br>
+💼 LinkedIn — [Eric Jr. Vondee](https://linkedin.com/in/eric-jr-vondee)<br>
+📧 Email — [ericvondee5@protonmail.com](mailto:ericvondee5@protonmail.com)
+
+📍 Based in **GMT** | 🤝 Open to collaborating on backend + blockchain projects
