@@ -11,7 +11,7 @@
 ### 🚀 What I'm Building
 
 - 🔗 **[Ply](https://useply.io)** — blockchain infrastructure platform <!-- one line: what problem it solves, who it's for -->
-- 🤖 **[StormBot](https://twitter.com/stormbotx)** — multichain Telegram trading bot ⚡
+- 🤖 **[StormBot](https://stormbotx.io)** — multichain Telegram trading bot ⚡
 
 ---
 
