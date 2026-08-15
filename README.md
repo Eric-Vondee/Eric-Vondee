@@ -10,8 +10,8 @@
 
 ### 🚀 What I'm Building
 
-- 🔗 **[Ply](https://useply.io)** — blockchain infrastructure platform <!-- one line: what problem it solves, who it's for -->
-- 🤖 **[StormBot](https://stormbotx.io)** — multichain Telegram trading bot ⚡
+- 🔗 **[Ply](https://useply.io)** — Reliable blockchain infrastructure for developers and teams building on-chain products.
+- 🔄 **[Uatu](https://uatu.dev)** — A DEX-aggregation swap API that helps developers source efficient token swaps across decentralized exchanges.
 
 ---
 
